@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div className="footer-brand">ADVSTAT<span>.</span></div><p>A student-built toolkit for clearer statistical analysis.</p><small>For educational use. Interpret results in the context of your research design.</small></footer>}
